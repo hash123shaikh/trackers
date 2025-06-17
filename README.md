@@ -1,3 +1,3 @@
-# phd-position-trackers
+# trackers
 
 - PhDScanner Website: https://www.phdscanner.com/home
