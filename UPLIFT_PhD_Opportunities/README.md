@@ -1,179 +1,50 @@
-# 📚 UPLIFT PhD Opportunities Tracker  
+# 📚 UPLIFT PhD Opportunities Tracker
+
 **Upright Radiotherapy: Learning, Innovation, Fellowship and Training**  
-Website: [https://uplift-project.eu](https://uplift-project.eu)
-
-Each project includes:
-- 📍 Enrollment University
-- 🧑‍🏫 Supervisor & Co-Supervisor
-- 🏢 Host Institution
-- 🌍 Planned Secondments
-- 🔗 Career/Job Page (if available)
+🔗 [Official Project Website](https://uplift-project.eu)
 
 ---
 
-## ✅ Project 1: Upright time-resolved MRI
-- **Enrollment**: Universita degli Studi di Genova  
-- **Supervisor**: Niels Oesingmann  
-- **Co-Supervisor**: Michele Piana  
-- **Host**: ASG Superconductors S.p.A.  
-- **Career Page**: https://www.asg.it/en/careers/
+This tracker was created to help me keep record of UPLIFT PhD positions and explore future career opportunities at participating institutions.
+
+While the application deadline (January 15, 2025) has passed, this page is useful for:
+- Revisiting supervisors or labs for PhD/postdoc opportunities
+- Exploring institutional career pages
+- Following future EU projects in related domains
 
 ---
 
-## ✅ Project 2: Machine learning based deformable registration
-- **Enrollment**: Université Paris-Saclay  
-- **Supervisor**: Nikos Paragios  
-- **Co-Supervisor**: Maria Vakalopoulou  
-- **Host**: TheraPanacea  
-- **Career Page**: https://www.therapanacea.eu/careers/
+## 🔍 Overview Table of All Projects
+
+| # | Project Title | Enrollment University | Host Institution | Supervisors | Career Links |
+|--:|---------------|------------------------|------------------|-------------|--------------|
+| 1 | Upright time-resolved MRI | Universita degli Studi di Genova | ASG Superconductors | Niels Oesingmann, Michele Piana | [ASG Careers](https://www.asg.it/en/careers/) |
+| 2 | ML-based Deformable Registration | Université Paris-Saclay | TheraPanacea | Nikos Paragios, Maria Vakalopoulou | [TheraPanacea Careers](https://www.therapanacea.eu/careers/) |
+| 3 | Advanced Upright Treatment Planning | KTH | RaySearch Labs | Erik Engwall, Lars Glimelius, Rasmus Bonkratz | [RaySearch Careers](https://www.raysearchlabs.com/career/) |
+| 4 | Motion Mitigation in Upright Position | TU Darmstadt | GSI Darmstadt | Christian Graeff, Marco Durante | [GSI Jobs](https://www.gsi.de/en/jobscareer) |
+| 5 | Upright Particle Arc Therapy | TU Darmstadt | GSI Darmstadt | Lennart Volz, Marco Durante | [GSI Jobs](https://www.gsi.de/en/jobscareer) |
+| 6 | Clinical Workflow – Photon Centre | Leon Berard | Leon Berard | Vincent Gregoire, Lionel Perrier | [Leon Berard Careers](https://www.centreleonberard.fr/en/join-us) |
+| 7 | Clinical Workflow – Particle Centre | Uni Heidelberg | CNAO | Ester Orlandi, Mario Ciocca | [CNAO Careers](https://fondazionecnao.it/en/work-with-us/) |
+| 8 | QA Software for Upright RT | Univ. of Ljubljana | Cosylab | Kristjan Anderle, Andrej Studen | [Cosylab Careers](https://www.cosylab.com/careers/) |
+| 9 | QA Workflow and Dosimetry | Czech Tech Univ. Prague | Same | Petra Trnkova, Pavel Dvorak | [CVUT Jobs](https://www.cvut.cz/en/job-offers) |
+|10 | Upright Immobilization and Positioning | TU Dresden | HZDR | Aswin Hoffmann, Bradley Oborn | [HZDR Careers](https://www.hzdr.de/db/Cms?pNid=490) |
+|11 | MRI-guided Upright Particle Therapy | TU Dresden | HZDR | Aswin Hoffmann, Bradley Oborn | [HZDR Careers](https://www.hzdr.de/db/Cms?pNid=490) |
+|12 | Upright PET Imaging | Uni Jagiellonian | Same | Ewa Stepień, Paweł Moskal | [UJ Jobs](https://www.uj.edu.pl/en_GB/praca-w-uj) |
+|13 | Anthropomorphic Phantoms | Uni Heidelberg | DKFZ | Armin Runz, Oliver Jäkel | [DKFZ Careers](https://www.dkfz.de/en/karriere/index.html) |
+|14 | Human Aspect of Particle Therapy | Uni Heidelberg | CNAO | Andrea Pella, Mario Ciocca | [CNAO Careers](https://fondazionecnao.it/en/work-with-us/) |
+|15 | Socio-economic Impact | Leon Berard | Same | Lionel Perrier, Vincent Gregoire | [Leon Berard Careers](https://www.centreleonberard.fr/en/join-us) |
+|16 | Multimodal Imaging (Upright) | ETH Zurich | PSI | Ye Zhang, Tony Lomax | [PSI Jobs](https://www.psi.ch/en/pa/job-opportunities) |
+|17 | Upright vs Supine Anatomy | ETH Zurich | PSI | Ye Zhang, Tony Lomax | [PSI Jobs](https://www.psi.ch/en/pa/job-opportunities) |
+|18 | Human Factors in Positioning | Loughborough Univ. | Same | Michael Fray, Tracy Underwood | [Loughborough Jobs](https://www.lboro.ac.uk/join-us/) |
+|19 | Human Aspect of RT | Sheffield Hallam Univ. | Same | Heidi Probst, Tracy Underwood | [SHU Jobs](https://www.shu.ac.uk/jobs) |
 
 ---
 
-## ✅ Project 3: Advanced upright treatment planning
-- **Enrollment**: KTH Royal Institute of Technology  
-- **Supervisor**: Erik Engwall  
-- **Co-Supervisors**: Lars Glimelius, Rasmus Bonkratz  
-- **Host**: RaySearch Laboratories  
-- **Career Page**: https://www.raysearchlabs.com/career/
+## 🧭 Notes for Future Use
+- Filter by host or enrollment universities to identify potential supervisors.
+- Monitor career pages above for **PhD, postdoc, or internship openings**.
+- Use the official [Uplift Project Page](https://uplift-project.eu/) to track publications, collaborations, and updates.
 
 ---
 
-## ✅ Project 4: Motion mitigation in upright position
-- **Enrollment**: Technische Universität Darmstadt  
-- **Supervisor**: Christian Graeff  
-- **Co-Supervisor**: Marco Durante  
-- **Host**: GSI Helmholtzzentrum für Schwerionenforschung GmbH  
-- **Career Page**: https://www.gsi.de/en/jobscareer
-
----
-
-## ✅ Project 5: Upright particle arc therapy
-- **Enrollment**: Technische Universität Darmstadt  
-- **Supervisor**: Lennart Volz  
-- **Co-Supervisor**: Marco Durante  
-- **Host**: GSI Helmholtzzentrum für Schwerionenforschung GmbH  
-- **Career Page**: https://www.gsi.de/en/jobscareer
-
----
-
-## ✅ Project 6: Clinical upright radiotherapy workflow (Photon Centre)
-- **Enrollment & Host**: Centre de Lutte Contre Le Cancer Leon Berard  
-- **Supervisor**: Vincent Gregoire  
-- **Co-Supervisor**: Lionel Perrier  
-- **Career Page**: https://www.centreleonberard.fr/en/join-us
-
----
-
-## ✅ Project 7: Clinical upright radiotherapy workflow (Particle Centre)
-- **Enrollment**: Ruprecht-Karls-Universitaet Heidelberg  
-- **Supervisor**: Ester Orlandi  
-- **Co-Supervisor**: Mario Ciocca  
-- **Host**: CNAO  
-- **Career Page**: https://fondazionecnao.it/en/work-with-us/
-
----
-
-## ✅ Project 8: QA software for upright RT
-- **Enrollment**: Univerza v Ljubljani  
-- **Supervisor**: Kristjan Anderle  
-- **Co-Supervisor**: Andrej Studen  
-- **Host**: Cosylab  
-- **Career Page**: https://www.cosylab.com/careers/
-
----
-
-## ✅ Project 9: QA workflow and dosimetry
-- **Enrollment & Host**: Czech Technical University in Prague  
-- **Supervisor**: Petra Trnkova  
-- **Co-Supervisor**: Pavel Dvorak  
-- **Career Page**: https://www.cvut.cz/en/job-offers
-
----
-
-## ✅ Project 10: Upright immobilization and positioning
-- **Enrollment**: Technische Universität Dresden  
-- **Supervisor**: Aswin Hoffmann  
-- **Co-Supervisor**: Bradley Oborn  
-- **Host**: HZDR  
-- **Career Page**: https://www.hzdr.de/db/Cms?pNid=490
-
----
-
-## ✅ Project 11: Isocentric MRI guided upright particle therapy
-- **Enrollment**: Technische Universität Dresden  
-- **Supervisor**: Aswin Hoffmann  
-- **Co-Supervisor**: Bradley Oborn  
-- **Host**: HZDR  
-- **Career Page**: https://www.hzdr.de/db/Cms?pNid=490
-
----
-
-## ✅ Project 12: Upright PET imaging
-- **Enrollment & Host**: Uniwersytet Jagielloński  
-- **Supervisor**: Ewa Stepień  
-- **Co-Supervisor**: Paweł Moskal  
-- **Career Page**: https://www.uj.edu.pl/en_GB/praca-w-uj
-
----
-
-## ✅ Project 13: Anthropomorphic phantoms for validation
-- **Enrollment**: Ruprecht-Karls-Universitaet Heidelberg  
-- **Supervisor**: Armin Runz  
-- **Co-Supervisor**: Oliver Jäkel  
-- **Host**: DKFZ Heidelberg  
-- **Career Page**: https://www.dkfz.de/en/karriere/index.html
-
----
-
-## ✅ Project 14: Human aspect of particle therapy
-- **Enrollment**: Ruprecht-Karls-Universitaet Heidelberg  
-- **Supervisor**: Andrea Pella  
-- **Co-Supervisor**: Mario Ciocca  
-- **Host**: CNAO  
-- **Career Page**: https://fondazionecnao.it/en/work-with-us/
-
----
-
-## ✅ Project 15: Socio-economic impact analysis
-- **Enrollment & Host**: Centre de Lutte Contre Le Cancer Leon Berard  
-- **Supervisor**: Lionel Perrier  
-- **Co-Supervisor**: Vincent Gregoire  
-- **Career Page**: https://www.centreleonberard.fr/en/join-us
-
----
-
-## ✅ Project 16: Multimodal imaging for upright posture
-- **Enrollment**: ETH Zurich  
-- **Supervisor**: Ye Zhang  
-- **Co-Supervisor**: Tony Lomax  
-- **Host**: Paul Scherrer Institute (PSI)  
-- **Career Page**: https://www.psi.ch/en/pa/job-opportunities
-
----
-
-## ✅ Project 17: Anatomical difference (Upright vs Supine)
-- **Enrollment**: ETH Zurich  
-- **Supervisor**: Ye Zhang  
-- **Co-Supervisor**: Tony Lomax  
-- **Host**: Paul Scherrer Institute (PSI)  
-- **Career Page**: https://www.psi.ch/en/pa/job-opportunities
-
----
-
-## ✅ Project 18: Human factors and ergonomics
-- **Enrollment & Host**: Loughborough University  
-- **Supervisor**: Michael Fray  
-- **Co-Supervisor**: Tracy Underwood  
-- **Career Page**: https://www.lboro.ac.uk/join-us/
-
----
-
-## ✅ Project 19: Human aspect of radiotherapy
-- **Enrollment & Host**: Sheffield Hallam University  
-- **Supervisor**: Heidi Probst  
-- **Co-Supervisor**: Tracy Underwood  
-- **Career Page**: https://www.shu.ac.uk/jobs
-
----
-
-> ✍️ Note: Application deadlines were **15 January 2025** for all projects. This tracker is for archival, networking, and future planning purposes.
+_Tracker maintained by Hasan Shaikh for career planning and academic outreach._
