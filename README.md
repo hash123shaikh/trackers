@@ -25,7 +25,8 @@ The goal is simple: **centralize important links** so I never miss a good opport
 | [ELLIS Network](https://ellis.eu/jobs) | Top AI research network across Europe |
 | [University of Amsterdam](https://werkenbij.uva.nl/en/vacancies) | Job board for PhDs, postdocs, and staff |
 | [HCI Heidelberg](https://hci.iwr.uni-heidelberg.de/research) | Renowned imaging lab in Germany |
-| [European Federation of Organisations for Medical Physics (EFOMP)](https://www.efomp.org/index.php?r=jobs) | The motto is to underline the important work of medical physics societies in healthcare |
+| [EFOMP Jobs](https://www.efomp.org/index.php?r=jobs) | Job board by the European Federation for Medical Physics |
+| [Jobnet Denmark](https://job.jobnet.dk/CV/FindWork?SearchString=phd) | Official Danish job portal for national-level PhD, postdoc & research roles |
 
 ---
 
