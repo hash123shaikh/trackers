@@ -1,5 +1,9 @@
 # 🧪 DCCC Work Groups & Clinical Groups
 
+![DCCC Workgroup and Clinical Group Map](./images/dccc_workgroups.png)
+
+---
+
 ## 🟨 Work Group Topics
 1. Biomarkers (molecular and imaging)  
 2. National MR QA (NIMBUS)  
@@ -15,6 +19,8 @@
 12. Dose plan bank, DcmCollab, DESIRE  
 13. Radiotherapy quality assurance  
 14. Topic TBD at annual meeting 2025  
+
+---
 
 ## 🟩 Clinical Groups
 1. Children – DAPHO  
