@@ -43,18 +43,11 @@ Index | Source | Type | Description |
 |27| [Commonwealth Scholarships](https://cscuk.org.uk) | Fellowship | Fully funded PhDs for Commonwealth students |
 |28| [GoAbroad](https://www.goabroad.com) | Portal | Scholarships & funded graduate programs |
 |29| [PhD Scholarships](https://www.phdscholarships.org) | Portal | Scholarships and funding for PhD students |
-|30| [AcademicTransfer](https://www.academictransfer.com) | Job Board | NL-based academic vacancies including PhDs |
+|30| [AcademicTransfer](https://www.academictransfer.com) | Job Board | Netherland-based academic vacancies including PhDs |
 |31| [PhDJobs](https://www.phdjobs.com) | Job Board | Dedicated PhD job board |
 |32| [CHUV – University Hospital of Vaud](https://www.chuv.ch/en/vaud-university-hospital/working-at-chuv/job-opportunities) | Position | **Doctoral Assistant – BioMotion Center** (Lausanne). One-year renewable PhD-level contract (80–100% activity rate), starting Oct 1, 2025. Focus: orthopedics, motion analysis & biomechanics. Ref: 12553-RE-207-2025 |
 
 ---
 
 > ✨ *“Stay organized. Stay ready. Stay sharp — and one door will lead to many.”*
-
-
-- University of Amsterdam: https://werkenbij.uva.nl/en/vacancies
-
--  Lab at Heidelberg Collaboratory for Image Processing (HCI): https://hci.iwr.uni-heidelberg.de/research
-
----
 
