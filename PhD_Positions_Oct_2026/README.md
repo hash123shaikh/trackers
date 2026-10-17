@@ -54,6 +54,11 @@ NTCP / normal tissue complication · radiotherapy toxicity prediction · dynamic
 
 ---
 
+## 🇪🇺 EU-funded groups
+See [EU_Funded_Groups.md](EU_Funded_Groups.md): ERC / MSCA / Horizon Europe awards in radiotherapy AI, led by TUM's AI-PIONEER (Peeken) and TTRAIL.
+
+---
+
 ## 🧭 Notes
 - **DKFZ closes in two days (19 Oct 2026)** – check its admission requirements first.
 - For ELLIS, request referees through the portal *before* 31 Oct; some institutions need a parallel application.
