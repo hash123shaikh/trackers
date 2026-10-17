@@ -46,6 +46,15 @@ Index | Source | Type | Description |
 |30| [AcademicTransfer](https://www.academictransfer.com) | Job Board | Netherland-based academic vacancies including PhDs |
 |31| [PhDJobs](https://www.phdjobs.com) | Job Board | Dedicated PhD job board |
 |32| [CHUV – University Hospital of Vaud](https://www.chuv.ch/en/vaud-university-hospital/working-at-chuv/job-opportunities) | Position | **Doctoral Assistant – BioMotion Center** (Lausanne). One-year renewable PhD-level contract (80–100% activity rate), starting Oct 1, 2025. Focus: orthopedics, motion analysis & biomechanics. Ref: 12553-RE-207-2025 |
+|33| [DKFZ International PhD Program](https://www.dkfz.de/en/career/international-phd-program) | Position | Cancer research PhD, Heidelberg/Dresden. **Deadline 19 Oct 2026** |
+|34| [ELLIS PhD Program 2026](https://apply.ellis.eu/applicant_registrations/) | Position | Two-advisor PhD across Europe, start 2027. **Deadline 31 Oct 2026** (letters by 25 Nov) |
+|35| [TagTIC DC11 – AI for Infection-Driven Cancers](https://miccai.org/job/phd-position-in-artificial-intelligence-for-infection-driven-cancers-tagtic-dc11/) | Position | MSCA PhD, TissueGnostics Vienna, start Jan 2027. **Deadline 31 Oct 2026** |
+|36| [TTRAIL MSCA Doctoral Network](https://www.ttrail.eu/) | Position | 15 PhDs in trustworthy radiotherapy AI, start Mar 2027. Call dates not confirmed – watch |
+|37| [CRUK Manchester Institute Studentships](https://www.cruk.manchester.ac.uk/submit-a-phd-studentship-application/) | Position | Oct 2027 start, interviews 11 Jan 2027. Check for AI projects |
+|38| [CRUK Cambridge Centre MRes+PhD](https://crukcambridgecentre.org.uk/studentships) | Position | Oct 2027 start, non-clinical applicants. Check for AI projects |
+|39| [Radboudumc TWIN-X Validation PhD](https://www.werkenbijradboudumc.nl/vacatures/phd-position-in-ai-for-cardiovascular-imaging-generative-ai-digital-twins-nijmegen-357453) | Position | Clinical validation of generative-AI digital twins. May be closed |
+
+Details, supervisors to email and closed calls: [PhD_Positions_Oct_2026](PhD_Positions_Oct_2026/README.md)
 
 ---
 
